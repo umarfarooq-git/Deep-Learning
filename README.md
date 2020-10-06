@@ -1,1 +1,1 @@
-# Mnist_gan
+# Deep Learning
